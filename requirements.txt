@@ -1,0 +1,6 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+motor==3.7.0
+apscheduler==3.10.1
+python-dotenv==1.0.0
+gpt-researcher
